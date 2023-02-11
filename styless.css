@@ -12,6 +12,7 @@ body{
 
 
 }
+
 .header {
   color: aliceblue;
   display: flex;
@@ -94,7 +95,7 @@ main{
 }
 .input input{
   height: 52px;
-width: 1500px;
+width: 880px;
 display: flex;
 justify-content: center;
 border-radius: 999px;
@@ -130,7 +131,9 @@ padding: 14px 24px;
     left: -45px;
 }
 
-
+.header .perfil p img{
+  margin-right: 4px;
+}
 
 
 
